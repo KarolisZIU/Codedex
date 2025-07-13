@@ -47,13 +47,13 @@ print('  4) The drum')
 answer = int(input('Enter answer (1-4): '))
 
 if answer == 1:
-  Slytherin = Slytherin + 4
+  Slytherin = Slytherin + 3
 elif answer == 2:
-  Hufflepuff = Hufflepuff + 4
+  Hufflepuff = Hufflepuff + 3
 elif answer == 3:
-  Ravenclaw = Ravenclaw + 4
+  Ravenclaw = Ravenclaw + 3
 elif answer == 4:
-  Gryffindor = Gryffindor + 4
+  Gryffindor = Gryffindor + 3
 else:
   print("Wrong input")
 
